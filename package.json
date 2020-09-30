@@ -1,0 +1,29 @@
+{
+  "name": "node-js-download-csv-file",
+  "version": "1.0.0",
+  "description": "Node.js Download CSV File from MySQL Database with Express Rest API",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node js",
+    "rest",
+    "api",
+    "express",
+    "download",
+    "csv",
+    "file",
+    "export",
+    "mysql",
+    "database"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json2csv": "^5.0.3",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
